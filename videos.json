@@ -1,48 +1,47 @@
 [
   {
-    "id": "movie-001",
-    "title": "GREASE TO GRACE",
+    "id": "trailer-001",
+    "title": "AVATAR: THE WAY OF WATER",
     "creator": {
-      "name": "Nollywood",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Nollywood&backgroundColor=22c55e"
+      "name": "20th Century Studios",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Avatar&backgroundColor=22c55e"
     },
-    "fullEmbedId": "GP7ftndwyKA",
+    "fullEmbedId": "d9MyW72ELq0",
     "type": "YOUTUBE",
-    "description": "A devoted mechanic gives up everything so his daughter can rise beyond the life he knows. Grease & Grace is a moving Nollywood story about love, longing, and the price of a better future.",
+    "description": "Set more than a decade after the events of the first film, “Avatar: The Way of Water” begins to tell the story of the Sully family.",
     "shorts": [
-      { "id": "m1-sh-01", "embedId": "LFPnl_krtKw", "title": "Sacrifice" },
-      { "id": "m1-sh-02", "embedId": "chVoyShs0gk", "title": "The Workshop" },
-      { "id": "m1-sh-03", "embedId": "UiKoYZdzxv0", "title": "Unspoken Feelings" }
+      { "id": "av-sh-01", "embedId": "o5F866hBV1M", "title": "The Ocean" },
+      { "id": "av-sh-02", "embedId": "X0t6666Gqf0", "title": "Battle Sequence" }
     ]
   },
   {
-    "id": "movie-002",
-    "title": "BUKA VIBEZ",
+    "id": "trailer-002",
+    "title": "NASA: PERSISTENCE ON MARS",
     "creator": {
-      "name": "Nollywood",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Buka&backgroundColor=22c55e"
+      "name": "NASA Jet Propulsion",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=NASA&backgroundColor=22c55e"
     },
-    "fullEmbedId": "BZ09_mqUiuo",
+    "fullEmbedId": "gm0b_ijaUEM",
     "type": "YOUTUBE",
-    "description": "This amazing romantic masterpiece will make your day and keep you glued to your screen. A must watch for everyone. Very educative.",
+    "description": "Watch the official trailer for the Mars 2020 Perseverance Rover mission, as it explores the Jezero Crater on the Red Planet.",
     "shorts": [
-      { "id": "m2-sh-01", "embedId": "pKs49xO2Vw4", "title": "Buka Love" },
-      { "id": "m2-sh-02", "embedId": "SSpbeK1Qazo", "title": "Vibes Only" }
+      { "id": "ns-sh-01", "embedId": "4czjS9h4Fpg", "title": "The Landing" },
+      { "id": "ns-sh-02", "embedId": "gYQbwPuh67w", "title": "First Flight" }
     ]
   },
   {
-    "id": "movie-003",
-    "title": "WHERE LOVE LIVES",
+    "id": "trailer-003",
+    "title": "TOP GUN: MAVERICK",
     "creator": {
-      "name": "Nollywood",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Love&backgroundColor=22c55e"
+      "name": "Paramount Pictures",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=TopGun&backgroundColor=22c55e"
     },
-    "fullEmbedId": "we7pr8gDCn8",
+    "fullEmbedId": "giXcoOCXByY",
     "type": "YOUTUBE",
-    "description": "A romantic comedy about a couple, Obim and Deade, celebrating their second anniversary. Obim surprises Deade with a new, luxurious house.",
+    "description": "After more than thirty years of service as one of the Navy’s top aviators, Pete Maverick Mitchell is where he belongs.",
     "shorts": [
-      { "id": "m3-sh-01", "embedId": "cZ-yrZf0PPI", "title": "The Anniversary" },
-      { "id": "m3-sh-02", "embedId": "Zucx8wt_Hms", "title": "The Surprise" }
+      { "id": "tg-sh-01", "embedId": "qSqVVswa420", "title": "Flight Deck" },
+      { "id": "tg-sh-02", "embedId": "fiv92pWp2_Y", "title": "Mach 10" }
     ]
   }
 ]
