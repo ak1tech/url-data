@@ -1,32 +1,32 @@
 [
   {
-    "id": "m-001",
-    "title": "SUPERMAN: LEGACY",
-    "creator": {
-      "name": "DC Studios",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=DC&backgroundColor=22c55e"
-    },
-    "fullEmbedId": "U3_v-nS-78M",
-    "type": "YOUTUBE",
-    "description": "The official first look at the new era of the DC Universe. Witness the beginning of a legend.",
-    "shorts": [
-      { "id": "s1-1", "embedId": "l6L1E8uV79U", "title": "Flight Teaser" },
-      { "id": "s1-2", "embedId": "V_S06_9yP6E", "title": "First Look" }
-    ]
-  },
-  {
-    "id": "m-002",
-    "title": "GLADIATOR II",
+    "id": "vid-topgun",
+    "title": "TOP GUN MAVERICK",
     "creator": {
       "name": "Paramount",
       "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Paramount&backgroundColor=22c55e"
     },
-    "fullEmbedId": "bjPQAnSIs_4",
+    "fullEmbedId": "giXcoOCXByY",
     "type": "YOUTUBE",
-    "description": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome.",
+    "description": "The official trailer for Top Gun: Maverick. Watch the high-flying action in this cinematic masterpiece.",
     "shorts": [
-      { "id": "s2-1", "embedId": "7A6M0A_m9f0", "title": "Colosseum Battle" },
-      { "id": "s2-2", "embedId": "8nd-6_TBy_4", "title": "Arena Prep" }
+      { "id": "tg-1", "embedId": "qSqVVswa420", "title": "Flight Deck" },
+      { "id": "tg-2", "embedId": "fiv92pWp2_Y", "title": "Mach 10 Test" }
+    ]
+  },
+  {
+    "id": "vid-avatar",
+    "title": "AVATAR: THE WAY OF WATER",
+    "creator": {
+      "name": "20th Century",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Avatar&backgroundColor=22c55e"
+    },
+    "fullEmbedId": "d9MyW72ELq0",
+    "type": "YOUTUBE",
+    "description": "Experience the stunning world of Pandora. The journey of the Sully family continues.",
+    "shorts": [
+      { "id": "av-1", "embedId": "o5F866hBV1M", "title": "Ocean Life" },
+      { "id": "av-2", "embedId": "X0t6666Gqf0", "title": "The Hunt" }
     ]
   }
 ]
