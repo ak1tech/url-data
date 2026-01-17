@@ -1,47 +1,32 @@
 [
   {
-    "id": "trailer-001",
-    "title": "AVATAR: THE WAY OF WATER",
+    "id": "m-001",
+    "title": "SUPERMAN: LEGACY",
     "creator": {
-      "name": "20th Century Studios",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Avatar&backgroundColor=22c55e"
+      "name": "DC Studios",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=DC&backgroundColor=22c55e"
     },
-    "fullEmbedId": "d9MyW72ELq0",
+    "fullEmbedId": "U3_v-nS-78M",
     "type": "YOUTUBE",
-    "description": "Set more than a decade after the events of the first film, “Avatar: The Way of Water” begins to tell the story of the Sully family.",
+    "description": "The official first look at the new era of the DC Universe. Witness the beginning of a legend.",
     "shorts": [
-      { "id": "av-sh-01", "embedId": "o5F866hBV1M", "title": "The Ocean" },
-      { "id": "av-sh-02", "embedId": "X0t6666Gqf0", "title": "Battle Sequence" }
+      { "id": "s1-1", "embedId": "l6L1E8uV79U", "title": "Flight Teaser" },
+      { "id": "s1-2", "embedId": "V_S06_9yP6E", "title": "First Look" }
     ]
   },
   {
-    "id": "trailer-002",
-    "title": "NASA: PERSISTENCE ON MARS",
+    "id": "m-002",
+    "title": "GLADIATOR II",
     "creator": {
-      "name": "NASA Jet Propulsion",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=NASA&backgroundColor=22c55e"
+      "name": "Paramount",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Paramount&backgroundColor=22c55e"
     },
-    "fullEmbedId": "gm0b_ijaUEM",
+    "fullEmbedId": "bjPQAnSIs_4",
     "type": "YOUTUBE",
-    "description": "Watch the official trailer for the Mars 2020 Perseverance Rover mission, as it explores the Jezero Crater on the Red Planet.",
+    "description": "From legendary director Ridley Scott, Gladiator II continues the epic saga of power, intrigue, and vengeance set in Ancient Rome.",
     "shorts": [
-      { "id": "ns-sh-01", "embedId": "4czjS9h4Fpg", "title": "The Landing" },
-      { "id": "ns-sh-02", "embedId": "gYQbwPuh67w", "title": "First Flight" }
-    ]
-  },
-  {
-    "id": "trailer-003",
-    "title": "TOP GUN: MAVERICK",
-    "creator": {
-      "name": "Paramount Pictures",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=TopGun&backgroundColor=22c55e"
-    },
-    "fullEmbedId": "giXcoOCXByY",
-    "type": "YOUTUBE",
-    "description": "After more than thirty years of service as one of the Navy’s top aviators, Pete Maverick Mitchell is where he belongs.",
-    "shorts": [
-      { "id": "tg-sh-01", "embedId": "qSqVVswa420", "title": "Flight Deck" },
-      { "id": "tg-sh-02", "embedId": "fiv92pWp2_Y", "title": "Mach 10" }
+      { "id": "s2-1", "embedId": "7A6M0A_m9f0", "title": "Colosseum Battle" },
+      { "id": "s2-2", "embedId": "8nd-6_TBy_4", "title": "Arena Prep" }
     ]
   }
 ]
