@@ -1,55 +1,52 @@
 [
   {
     "id": "movie-001",
-    "title": "GREASE TO GRASE",
-    "creator": { 
-      "name": "Nollywood", 
-      "avatar": "https://pin.it/SvXACdOyQ" 
+    "title": "GREASE TO GRACE",
+    "creator": {
+      "name": "Nollywood",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Nollywood&backgroundColor=22c55e"
     },
     "fullEmbedId": "GP7ftndwyKA",
     "type": "YOUTUBE",
-    "description": "A devoted mechanic gives up everything so his daughter can rise beyond the life he knows. As Winifred nears graduation, love quietly complicates her world when unspoken feelings, jealousy, and desire collide inside a humble workshop. Between a father’s sacrifice and a tangled romance, Grease & Grace is a moving Nollywood story about love, longing, and the price of a better future. Watch!",
+    "description": "A devoted mechanic gives up everything so his daughter can rise beyond the life he knows. Grease & Grace is a moving Nollywood story about love, longing, and the price of a better future.",
     "shorts": [
-      { "id": "sh-001", "embedId": "LFPnl_krtKw", "title": "Grease to Grase" },
-      { "id": "sh-002", "embedId": "chVoyShs0gk", "title": "Grease to Grase" },
-      { "id": "sh-002", "embedId": "UiKoYZdzxv0", "title": "Grease to Grase" },
-      { "id": "sh-002", "embedId": "JLdwuNZa3Ig", "title": "Grease to Grase" },
-      { "id": "sh-002", "embedId": "16vKhirSkIs", "title": "Grease to Grase" }
+      { "id": "m1-sh-01", "embedId": "LFPnl_krtKw", "title": "Sacrifice" },
+      { "id": "m1-sh-02", "embedId": "chVoyShs0gk", "title": "The Workshop" },
+      { "id": "m1-sh-03", "embedId": "UiKoYZdzxv0", "title": "Unspoken Feelings" },
+      { "id": "m1-sh-04", "embedId": "JLdwuNZa3Ig", "title": "Complications" },
+      { "id": "m1-sh-05", "embedId": "16vKhirSkIs", "title": "The Graduation" }
     ]
   },
-
-    {
+  {
     "id": "movie-002",
     "title": "BUKA VIBEZ",
-    "creator": { 
-      "name": "Nollywood", 
-      "avatar": "https://pin.it/SvXACdOyQ" 
+    "creator": {
+      "name": "Nollywood",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Nollywood&backgroundColor=22c55e"
     },
     "fullEmbedId": "BZ09_mqUiuo",
     "type": "YOUTUBE",
-    "description": "This amazing romantic master piece will make your day and keep you glued to your screen. A must watch for everyone. Very educative",
+    "description": "This amazing romantic masterpiece will make your day and keep you glued to your screen. A must watch for everyone. Very educative.",
     "shorts": [
-      { "id": "sh-001", "embedId": "pKs49xO2Vw4", "title": "Buka Vibez" },
-      { "id": "sh-002", "embedId": "SSpbeK1Qazo", "title": "Buka Vibez" }
+      { "id": "m2-sh-01", "embedId": "pKs49xO2Vw4", "title": "Buka Love" },
+      { "id": "m2-sh-02", "embedId": "SSpbeK1Qazo", "title": "Vibes Only" }
     ]
   },
-
-    {
+  {
     "id": "movie-003",
     "title": "WHERE LOVE LIVES",
-    "creator": { 
-      "name": "Nollywood", 
-      "avatar": "https://pin.it/SvXACdOyQ" 
+    "creator": {
+      "name": "Nollywood",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Nollywood&backgroundColor=22c55e"
     },
     "fullEmbedId": "we7pr8gDCn8",
     "type": "YOUTUBE",
-    "description": "This video, titled WHERE LOVE LIVES, is a romantic comedy about a couple, Obim and Deade, celebrating their second anniversary. Obim surprises Deade with a new, luxurious house",
+    "description": "A romantic comedy about a couple, Obim and Deade, celebrating their second anniversary. Obim surprises Deade with a new, luxurious house.",
     "shorts": [
-      { "id": "sh-001", "embedId": "cZ-yrZf0PPI", "title": "Where Love Lives" },
-      { "id": "sh-002", "embedId": "Zucx8wt_Hms", "title": "Where Love Lives" },
-      { "id": "sh-002", "embedId": "JRKAaLD8fVI", "title": "Where Love Lives" },
-      { "id": "sh-002", "embedId": "nW7jlxSA0iw", "title": "Where Love Lives" }
+      { "id": "m3-sh-01", "embedId": "cZ-yrZf0PPI", "title": "The Anniversary" },
+      { "id": "m3-sh-02", "embedId": "Zucx8wt_Hms", "title": "The Surprise" },
+      { "id": "m3-sh-03", "embedId": "JRKAaLD8fVI", "title": "Deade's Joy" },
+      { "id": "m3-sh-04", "embedId": "nW7jlxSA0iw", "title": "Home Sweet Home" }
     ]
-    }
-
+  }
 ]
