@@ -1,32 +1,34 @@
 [
   {
-    "id": "vid-topgun",
-    "title": "TOP GUN MAVERICK",
-    "creator": {
-      "name": "Paramount",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Paramount&backgroundColor=22c55e"
-    },
-    "fullEmbedId": "giXcoOCXByY",
-    "type": "YOUTUBE",
-    "description": "The official trailer for Top Gun: Maverick. Watch the high-flying action in this cinematic masterpiece.",
+    "id": "movie-001",
+    "title": "WHERE LOVE LIVES",
+    "description": "This video, titled WHERE LOVE LIVES, is a romantic comedy about a couple, Obim and Deade, celebrating their second anniversary. Obim surprises Deade with a new, luxurious house",
+    "profilePic": "https://share.google/sEqIdqDslan91nDtr",
+    "fullMovieUrl": "https://youtu.be/we7pr8gDCn8?si=XG9PxHjkds0T6ob7",
+    "interestScore": 0,
+    "isFinished": false,
     "shorts": [
-      { "id": "tg-1", "embedId": "qSqVVswa420", "title": "Flight Deck" },
-      { "id": "tg-2", "embedId": "fiv92pWp2_Y", "title": "Mach 10 Test" }
-    ]
-  },
-  {
-    "id": "vid-avatar",
-    "title": "AVATAR: THE WAY OF WATER",
-    "creator": {
-      "name": "20th Century",
-      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Avatar&backgroundColor=22c55e"
-    },
-    "fullEmbedId": "d9MyW72ELq0",
-    "type": "YOUTUBE",
-    "description": "Experience the stunning world of Pandora. The journey of the Sully family continues.",
-    "shorts": [
-      { "id": "av-1", "embedId": "o5F866hBV1M", "title": "Ocean Life" },
-      { "id": "av-2", "embedId": "X0t6666Gqf0", "title": "The Hunt" }
+      {
+        "id": "short-101",
+        "movieId": "movie-001",
+        "videoUrl": "hhttps://youtube.com/shorts/Zucx8wt_Hms?si=sXEPDdWoZ_JB6GU6",
+        "thumbnail": "https://pin.it/5jzcnXg0L",
+        "description": "Have you watched this?"
+      },
+      {
+        "id": "short-102",
+        "movieId": "movie-001",
+        "videoUrl": "https://youtube.com/shorts/nW7jlxSA0iw?si=M4JDfk9xz8B0Kdeu",
+        "thumbnail": "https://pin.it/4f2t4p6Zn",
+        "description": "What's Happning Part 1?"
+      },
+      {
+        "id": "short-103",
+        "movieId": "movie-001",
+        "videoUrl": "https://youtube.com/shorts/JRKAaLD8fVI?si=SZ71ys6eUoyoRnfX",
+        "thumbnail": "https://pin.it/5pOhuRUzH",
+        "description": "What's Happning Part 2?"
+      }
     ]
   }
 ]
