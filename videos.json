@@ -4,15 +4,12 @@
     "title": "WHERE LOVE LIVES",
     "description": "This video, titled WHERE LOVE LIVES, is a romantic comedy...",
     "profilePic": "https://i.ibb.co/s9zNC1Zy/images-1-1.png",
-
     "video": {
       "platform": "youtube",
       "id": "we7pr8gDCn8"
     },
-
     "interestScore": 0,
     "isFinished": false,
-
     "shorts": [
       {
         "id": "short-101",
@@ -21,7 +18,28 @@
           "platform": "youtube",
           "id": "Zucx8wt_Hms"
         },
+        "thumbnail": "https://img.youtube.com/vi/Zucx8wt_Hms/maxresdefault.jpg",
         "description": "Have you watched this?"
+      },
+      {
+        "id": "short-102",
+        "movieId": "movie-001",
+        "video": {
+          "platform": "youtube",
+          "id": "nW7jlxSA0iw"
+        },
+        "thumbnail": "https://img.youtube.com/vi/nW7jlxSA0iw/maxresdefault.jpg",
+        "description": "What's Happening Part 1?"
+      },
+      {
+        "id": "short-103",
+        "movieId": "movie-001",
+        "video": {
+          "platform": "youtube",
+          "id": "JRKAaLD8fVI"
+        },
+        "thumbnail": "https://img.youtube.com/vi/JRKAaLD8fVI/maxresdefault.jpg",
+        "description": "What's Happening Part 2?"
       }
     ]
   }
