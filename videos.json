@@ -11,7 +11,7 @@
       {
         "id": "short-101",
         "movieId": "movie-001",
-        "videoUrl": "hhttps://youtube.com/shorts/Zucx8wt_Hms?si=sXEPDdWoZ_JB6GU6",
+        "videoUrl": "https://youtube.com/shorts/Zucx8wt_Hms?si=sXEPDdWoZ_JB6GU6",
         "thumbnail": "https://pin.it/5jzcnXg0L",
         "description": "Have you watched this?"
       },
@@ -32,3 +32,4 @@
     ]
   }
 ]
+
