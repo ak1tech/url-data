@@ -2,35 +2,30 @@
   {
     "id": "movie-001",
     "title": "WHERE LOVE LIVES",
-    "description": "This video, titled WHERE LOVE LIVES, is a romantic comedy about a couple, Obim and Deade, celebrating their second anniversary. Obim surprises Deade with a new, luxurious house",
+    "description": "This video, titled WHERE LOVE LIVES, is a romantic comedy about a couple...",
     "profilePic": "https://i.ibb.co/s9zNC1Zy/images-1-1.png",
-    "fullMovieUrl": "https://youtu.be/we7pr8gDCn8",
+    "youtubeId": "we7pr8gDCn8",
     "interestScore": 0,
     "isFinished": false,
     "shorts": [
       {
         "id": "short-101",
         "movieId": "movie-001",
-        "videoUrl": "https://youtube.com/shorts/Zucx8wt_Hms",
-        "thumbnail": "https://pin.it/5jzcnXg0L",
+        "youtubeId": "Zucx8wt_Hms",
         "description": "Have you watched this?"
       },
       {
         "id": "short-102",
         "movieId": "movie-001",
-        "videoUrl": "https://youtube.com/shorts/nW7jlxSA0iw",
-        "thumbnail": "https://pin.it/4f2t4p6Zn",
-        "description": "What's Happning Part 1?"
+        "youtubeId": "nW7jlxSA0iw",
+        "description": "What's Happening Part 1?"
       },
       {
         "id": "short-103",
         "movieId": "movie-001",
-        "videoUrl": "https://youtube.com/shorts/JRKAaLD8fVI?",
-        "thumbnail": "https://pin.it/5pOhuRUzH",
-        "description": "What's Happning Part 2?"
+        "youtubeId": "JRKAaLD8fVI",
+        "description": "What's Happening Part 2?"
       }
     ]
   }
 ]
-
-
