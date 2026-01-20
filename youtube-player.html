@@ -82,10 +82,7 @@
       // Set iframe source
       document.getElementById('player').src = embedUrl;
 
-      // Prevent scrolling
-      document.addEventListener('touchmove', function(e) {
-        e.preventDefault();
-      }, { passive: false });
+      // Don't prevent any touch events - let them bubble up to React Native
     })();
   </script>
 </body>
