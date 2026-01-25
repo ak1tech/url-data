@@ -41,7 +41,8 @@
         "thumbnail": "https://img.youtube.com/vi/JRKAaLD8fVI/maxresdefault.jpg",
         "description": "What's Happening Part 2?"
       }
-]
+    ]
+  },
   {
     "id": "movie-002",
     "title": "YOU ME FOREVER",
@@ -59,7 +60,7 @@
         "movieId": "movie-002",
         "video": {
           "platform": "facebook",
-          "id": "https://www.facebook.com/share/v/1C35nFN1r3/"
+          "id": "1C35nFN1r3"
         },
         "thumbnail": "https://img.facebook.com/vi/1C35nFN1r3/maxresdefault.jpg",
         "description": "What's Happening Part 1?"
@@ -74,6 +75,6 @@
         "thumbnail": "https://img.youtube.com/vi/MuyEdDi3PbU/maxresdefault.jpg",
         "description": "What's Happening Part 2?"
       }
+    ]
   }
 ]
-
