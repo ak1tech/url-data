@@ -64,7 +64,7 @@
           "platform": "facebook",
           "id": "1C35nFN1r3"
         },
-        "thumbnail": "https://img.facebook.com/vi/1C35nFN1r3/maxresdefault.jpg",
+        "thumbnail": "https://your-image-url.com/thumb.jpg",
         "description": "What's Happening Part 1?"
       },
       {
@@ -80,5 +80,6 @@
     ]
   }
 ]
+
 
 
