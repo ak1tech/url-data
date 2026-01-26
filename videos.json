@@ -4,6 +4,7 @@
     "title": "WHERE LOVE LIVES",
     "description": "This video, titled WHERE LOVE LIVES, is a romantic comedy...",
     "profilePic": "https://i.ibb.co/s9zNC1Zy/images-1-1.png",
+    "thumbnail": "https://img.youtube.com/vi/we7pr8gDCn8/maxresdefault.jpg",
     "video": {
       "platform": "youtube",
       "id": "we7pr8gDCn8"
@@ -48,6 +49,7 @@
     "title": "YOU ME FOREVER",
     "description": "This video, titled YOU ME FOREVER, is a romantic comedy...",
     "profilePic": "https://i.ibb.co/s9zNC1Zy/images-1-1.png",
+    "thumbnail": "https://img.youtube.com/vi/CmK_5I4YDRM/maxresdefault.jpg",
     "video": {
       "platform": "youtube",
       "id": "CmK_5I4YDRM"
@@ -78,4 +80,5 @@
     ]
   }
 ]
+
 
