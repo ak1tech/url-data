@@ -136,9 +136,9 @@
   },
   {
     "id": "movie-002",
-    "title": "ANOTHER MOVIE",
-    "description": "Another great movie",
-    "profilePic": "https://pub-xxxxx.r2.dev/profiles/another-movie-profile.jpg",
+    "title": "YOU ME FOREVER",
+    "description": "A romantic movie about love and commitment",
+    "profilePic": "https://pub-xxxxx.r2.dev/profiles/you-me-forever-profile.jpg",
     "thumbnail": "https://img.youtube.com/vi/ABC123XYZ/maxresdefault.jpg",
     "video": {
       "platform": "youtube",
@@ -226,7 +226,7 @@
         },
         "thumbnail": "https://pub-a2ae629ae12e4d42a4d62d9d8fff62c3.r2.dev/thumbnails/YOU%20ME%20FOREVER/trendingnollywoodmovies2_2026-01-30-20-45-45_1769802345075-thumb.jpg",
         "description": "Someone is at the door"
-      },
+      }
     ]
   }
 ]
