@@ -139,10 +139,10 @@
     "title": "YOU ME FOREVER",
     "description": "A romantic movie about love and commitment",
     "profilePic": "https://pub-xxxxx.r2.dev/profiles/you-me-forever-profile.jpg",
-    "thumbnail": "https://img.youtube.com/vi/ABC123XYZ/maxresdefault.jpg",
+    "thumbnail": "https://img.youtube.com/vi/CmK_5I4YDRM/maxresdefault.jpg",
     "video": {
       "platform": "youtube",
-      "id": "ABC123XYZ"
+      "id": "CmK_5I4YDRM"
     },
     "interestScore": 0,
     "isFinished": false,
@@ -230,3 +230,4 @@
     ]
   }
 ]
+
