@@ -3,7 +3,7 @@
     "id": "movie-001",
     "title": "WHERE LOVE LIVES",
     "description": "A romantic comedy about a couple celebrating their anniversary",
-    "profilePic": "https://pub-xxxxx.r2.dev/profiles/where-love-lives-profile.jpg",
+    "profilePic": "https://i.ibb.co/s9zNC1Zy/images-1-1.png",
     "thumbnail": "https://img.youtube.com/vi/we7pr8gDCn8/maxresdefault.jpg",
     "video": {
       "platform": "youtube",
@@ -138,7 +138,7 @@
     "id": "movie-002",
     "title": "YOU ME FOREVER",
     "description": "A romantic movie about love and commitment",
-    "profilePic": "https://pub-xxxxx.r2.dev/profiles/you-me-forever-profile.jpg",
+    "profilePic": "https://i.ibb.co/s9zNC1Zy/images-1-1.png",
     "thumbnail": "https://img.youtube.com/vi/CmK_5I4YDRM/maxresdefault.jpg",
     "video": {
       "platform": "youtube",
@@ -230,4 +230,5 @@
     ]
   }
 ]
+
 
